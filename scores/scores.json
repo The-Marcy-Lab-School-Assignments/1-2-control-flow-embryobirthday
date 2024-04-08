@@ -12,13 +12,13 @@
       "MoTe2": 1
     },
     "Debug Tests": {
-      "DeTe1": 0,
-      "DeTe2": 0,
-      "DeTe3": 0,
-      "DeTe4": 0,
-      "DeTe5": 0,
+      "DeTe1": 1,
+      "DeTe2": 1,
+      "DeTe3": 1,
+      "DeTe4": 1,
+      "DeTe5": 1,
       "DeTe6": 0,
-      "DeTe7": 0
+      "DeTe7": 1
     }
   },
   "idToTestNameHash": {
@@ -55,8 +55,8 @@
   },
   "humanReadable": {
     "From Scratch Tests": "5/5",
-    "finalTestScore": "FINAL SCORE: 7/14",
+    "finalTestScore": "FINAL SCORE: 13/14",
     "Modify Tests": "2/2",
-    "Debug Tests": "0/7"
+    "Debug Tests": "6/7"
   }
 }
